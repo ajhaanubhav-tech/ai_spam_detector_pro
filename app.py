@@ -2,8 +2,8 @@ import streamlit as st
 import pickle
 
 # Load model
-model = pickle.load(open("model/model.pkl", "rb"))
-vectorizer = pickle.load(open("model/vectorizer.pkl", "rb"))
+model = pickle.load(open("model.pkl", "rb"))
+vectorizer = pickle.load(open("vectorizer.pkl", "rb"))
 st.set_page_config(page_title="Spam Detector", page_icon="📧")
 
 st.title("📧 AI Spam Email Detector")
