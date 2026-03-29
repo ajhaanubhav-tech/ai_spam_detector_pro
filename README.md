@@ -24,7 +24,7 @@ A machine learning web app that detects whether an email/message is spam using p
 ---
 
 ## 🚀 Live Demo
-👉 [Add your deployed link here]
+👉 https://aispamdetectorpro-75ye4ojq5f4p9q6bnuyzkq.streamlit.app/
 
 ---
 
